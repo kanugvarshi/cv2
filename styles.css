@@ -1,0 +1,16 @@
+hr{
+    border: none;
+    height: 0px;
+    width: 5%;
+    border-top: 5px dotted;
+    border-color: gray;
+}
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: #66bfbf;
+}
+h2{
+    color: #66bfbf;
+}
